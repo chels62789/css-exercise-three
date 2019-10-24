@@ -80,7 +80,10 @@ body {
 }
 
 .arrow
-{display: inline-block;}
+{display: inline-block;
+
+
+}
 
 .content h1 {
   font-size:20px;
@@ -100,7 +103,7 @@ body {
 
 .container {
   margin: 0 auto;
-  width: 420px;
+  width: 60%;
 }
 
 nav {
