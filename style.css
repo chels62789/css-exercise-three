@@ -79,7 +79,7 @@ body {
   padding-right: 50px;
   padding-top: 15px;
   padding-bottom: 15px;
-  width: 500px;
+  width: 569px;
 display:inline-block;}
 
 .arrow
@@ -117,13 +117,10 @@ padding-bottom: 15px;
 
 nav {
   margin: 0 auto;
-  padding: 10px 0 15px 15px;
-  position: fixed;
-  width: 420px;
+
 }
 
 .restaurant-list {
-  padding-top: 10%;
   font-size: 100%;
 }
 .div {
