@@ -54,10 +54,9 @@ table {
 }
 
 
-.location
-{
-  a:hover {background-color: #B5B3B5;}
-}
+.content:hover {background-color: #B5B3B5;}
+.content:hover h1 {background-color: #B5B3B5;}
+.content:hover h3 {background-color: #B5B3B5;}
 
 
 
@@ -76,7 +75,12 @@ body {
   padding-top: 15px;
   padding-bottom: 15px;
   width: 500px;
+  display: inline-block;
+
 }
+
+.arrow
+{display: inline-block;}
 
 .content h1 {
   font-size:20px;
@@ -84,11 +88,13 @@ body {
   font-weight: bold;
   color:#000;
   background-color:#E5E5E5;
+  display: inline-block;
 }
 .content h3 {
   font-size: 15px;
   color:#000;
   background-color:#E5E5E5;
+  display: inline-block;
 }
 
 
