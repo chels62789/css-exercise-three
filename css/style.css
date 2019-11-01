@@ -89,9 +89,8 @@ display: inline-block;}
 
 
 nav {
-  margin: 0 auto;
   display: block;
-  width: 90%;
+  width: 100%;
 }
 
 h1 {
