@@ -32,11 +32,12 @@ body {
 
 .arrow{
   display: inline-block;
-  width: 0;
-  height: 0;
+  vertical-align: text-bottom;
   border-left: 200px solid transparent;
   border-bottom: 100px;
   border-right: 4px solid transparent;
+  padding-bottom: 5%;
+  font-size: .6em;
 }
 
 .location{
