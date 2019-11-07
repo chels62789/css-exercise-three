@@ -14,7 +14,7 @@ body {
 }
 
 .content{
-  padding-left: 5px;
+  padding-left: 5%;
   padding-top: 20px;
   padding-bottom: 20px;
   width: 90%;
@@ -24,6 +24,7 @@ body {
 .arrow-left{
   background-color:#000;
   padding-right: 50px;
+  padding-left: 5%;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -31,9 +32,8 @@ body {
 .arrow{
   display: inline-block;
   vertical-align: text-bottom;
-  border-bottom: 500px;
   border-right: 4px solid transparent;
-  padding-bottom: 5%;
+  padding-bottom: 7%;
   font-size: .5em;
 }
 
